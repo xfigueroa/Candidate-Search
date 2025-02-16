@@ -61,6 +61,17 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+.candidate{
+  width: 200px;
+  height: 400px;
+  background-color: #646cff;
+  color: #fff;
+}
+.save-button {
+
+  background-color: #646cff;
+  color: #fff;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
